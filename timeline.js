@@ -342,14 +342,6 @@ function skiptoNext() {
 
 
 
-    $('.skipbtntext').on('click', () => {
-        lastgraph.testlog()
 
-        lastgraph.loadData()
-
-        $('body').css('overflow-y', 'hidden')
-        $('.overtime').css('opacity', 0)
-
-    })
 
 }
