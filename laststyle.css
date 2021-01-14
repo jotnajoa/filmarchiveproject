@@ -1,0 +1,153 @@
+.graphpart {
+    /* background: rgba(255, 0, 0, 0.274); */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 850px;
+    padding: 0;
+    height: 630px;
+    display: grid;
+    grid-template-rows: 30px 600px
+}
+
+.lastheadline {
+    font-family: Sofia Pro;
+    width: 850px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+    position: relative;
+    top: 25px
+}
+
+.graphpart {
+    font-family: Sofia Pro;
+}
+
+.category {
+    margin-right: 10px;
+    display: grid;
+    align-items: center;
+}
+
+.graphpart>.mediums {
+    /* background: rgba(197, 197, 197, 0.233); */
+    width: 100%;
+    grid-row: 2 / 3;
+    display: grid;
+    grid-template-rows: 20px 560px;
+}
+
+.graphpart>.mediums>.yearlegend {
+    width: 100%;
+    grid-row: 1/2;
+    display: grid;
+    grid-template-columns: 100px repeat(15 50px);
+    grid-auto-flow: column;
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+    font-weight: 200;
+    position: relative;
+    top: -15px;
+    text-align: center;
+}
+
+.graphpart>.mediums>.yearlegend>.emptyheader {
+    grid-column: 1 / 2;
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.graphpart>.mediums>.yearlegend>.years {
+    padding: 0;
+    margin: 0;
+    width: 50px;
+    border-left: none;
+    position: relative;
+}
+
+.graphpart>.mediums>.eachmedium {
+    grid-row: 2/3;
+    display: grid;
+    grid-template-rows: repeat(9 1fr);
+    gap: 0px;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: end;
+}
+
+.graphpart>.mediums>.eachmedium>.types {
+    display: grid;
+    grid-template-columns: 100px repeat(15 50px);
+    grid-auto-flow: column;
+    height: 50px
+}
+
+.graphpart>.mediums>.eachmedium>.types>.category {
+    grid-column: 1 / 2;
+    width: 100px;
+    height: 50px;
+    /* background: rgba(255, 255, 0, 0.192); */
+}
+
+.radialLegend>svg {
+    transform: translate(0, -25px)
+}
+
+.years {
+    border-left: 0.2px dashed #6d6d6d3b
+}
+
+.Photographs>.years {
+    border-left: none;
+}
+
+.Videotapes>.years {
+    border-left: none;
+}
+
+.graphpath {
+    opacity: 0.8
+}
+
+.radialLegend {
+    position: fixed;
+    bottom: 0%;
+    left: 85%;
+    top: 80%;
+}
+
+.radialLegend>svg {
+    position: relative;
+    top: 20px;
+}
+
+.scaledescription {
+    position: absolute;
+    top: 3%;
+    left: 27%;
+    font-size: 12px;
+    font-family: Sofia Pro;
+    margin: 0;
+    padding: 0;
+}
+
+.descspan {
+    position: relative;
+    top: 40px;
+    left: 5px;
+    font-size: 10px;
+    display: block
+}
+
+.legendTitle {
+    font-family: Sofia Pro;
+    text-decoration: underline;
+}
+
+.graphbody {
+    transform: translate(0, -22px)
+}

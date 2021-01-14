@@ -1,0 +1,37 @@
+[{
+        "title": "Tuktu and His Animal Friends 1969",
+        "type": "Motion pictures",
+        "date": "1969",
+        "id": "edanmdm:siris_arc_398763",
+        "geoLoc": {
+            "place": "Canada",
+            "continent": "North America"
+        },
+        "coord": {
+            "target": "detailLoc",
+            "content": "Canada"
+        },
+        "latlng": {
+            "lat": 45.42042,
+            "lon": -75.69243
+        }
+    },
+    {
+        "title": "Tuktu and His Eskimo Dogs 1969",
+        "type": "Motion pictures",
+        "date": "1969",
+        "id": "edanmdm:siris_arc_398764",
+        "geoLoc": {
+            "place": "Canada",
+            "continent": "North America"
+        },
+        "coord": {
+            "target": "detailLoc",
+            "content": "Canada"
+        },
+        "latlng": {
+            "lat": 45.42042,
+            "lon": -75.69243
+        }
+    }
+]

@@ -1,0 +1,4 @@
+let array=Array.from(document.querySelectorAll('.listing>div[class="record inactive-record"]'))
+
+
+array[5].querySelector('dd[class="place-first"]').textContent.trim()

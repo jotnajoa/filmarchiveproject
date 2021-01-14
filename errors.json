@@ -1,0 +1,67 @@
+[{
+        "title": "Himba Wedding 1969",
+        "type": "Motion pictures",
+        "date": "1969",
+        "id": "edanmdm:siris_arc_218238",
+        "geoLoc": {
+            "place": "Kackoveld ",
+            "continent": "Asia"
+        },
+        "coord": {
+            "target": "detailLoc",
+            "content": "Kackoveld ",
+            "xy": {
+                "cx": 693.07,
+                "cy": 129.08
+            }
+        },
+        "latlng": {
+            "lat": -17.5010,
+            "lon": 12.0012
+        }
+    },
+    {
+        "title": "The Masai 1929",
+        "type": "Motion pictures",
+        "date": "1929",
+        "id": "edanmdm:siris_arc_218478",
+        "geoLoc": {
+            "place": "Nilotic",
+            "continent": "Africa"
+        },
+        "coord": {
+            "target": "detailLoc",
+            "content": "Nilotic",
+            "xy": {
+                "cx": 223.43,
+                "cy": 394.76
+            }
+        },
+        "latlng": {
+            "lat": 1.3733,
+            "lon": 32.2903
+        }
+    },
+    {
+        "title": "William Meggers Footage of American Indians 1927, 1929, 1931",
+        "type": "Projected media",
+        "date": "1927",
+        "id": "edanmdm:siris_arc_219360",
+        "geoLoc": {
+            "place": "North America",
+            "continent": "North America"
+        },
+        "coord": {
+            "target": "continent",
+            "content": "North America",
+            "xy": {
+                "cx": 890.69,
+                "cy": 531.72
+            }
+        },
+        "latlng": {
+            "lat": 54.526,
+            "lon": -105.2551
+        }
+    }
+]

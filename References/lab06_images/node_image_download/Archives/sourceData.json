@@ -1,0 +1,5044 @@
+[{
+        "id": "edanmdm-siris_arc_398718",
+        "title": "The Sea is Our Life 1979",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398719",
+        "title": "The North American Indian: Part 1: Treaties Made and Broken ca. 1970s",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Washington"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398723",
+        "title": "Catlin and the Indians 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398694",
+        "title": "The Eagle and the Moon 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398699",
+        "title": "The Crooked Beak of Heaven 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398713",
+        "title": "Totems 1962",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398727",
+        "title": "Native American Myths 1976",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398696",
+        "title": "Red Sunday 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Little Bighorn Battlefield National Monument"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398709",
+        "title": "Legend of the Boy and the Eagle 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398701",
+        "title": "Polar Regions: Hunters and Herders 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Arctic Ocean"
+            },
+            "location": {
+                "type": "Other string",
+                "content": "Arctic Regions"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398706",
+        "title": "Caribou: The Endless Journey 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398721",
+        "title": "The Journals of Lewis and Clark 1965",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398758",
+        "title": "Myths and the Moundbuilder 1981",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1980s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398720",
+        "title": "People of the Buffalo 1968",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398702",
+        "title": "Eskimos: a Changing Culture 1972",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398708",
+        "title": "How to Build an Igloo 1949",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1940s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398722",
+        "title": "Shelly Whitebird's First Powwow 1977",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_306251",
+        "title": "Red Man and the Red Cedar, part 1 1969",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398707",
+        "title": "End of the Trail: The American Plains Indian 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398697",
+        "title": "subsistence: an Alaskan Lifestyle ca. 1970s",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398710",
+        "title": "The Navajos: Children of the Gods 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398724",
+        "title": "Our Native American Friends 1970",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398725",
+        "title": "Indian Family of Long Ago: Buffalo Hunters of the Plains 1957",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "South Dakota"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218584",
+        "title": "Ishi in Two Worlds 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "California"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398716",
+        "title": "Subsistence: a Way of Life is Dying 1977",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398700",
+        "title": "The Treasure: Indian Heritage ca. 1970s",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398712",
+        "title": "Colors of Pride 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398705",
+        "title": "Circle of the Sun 1960",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398715",
+        "title": "Indians of California, Part 2: Food 1964",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "California"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398717",
+        "title": "Chain of Life: the Aleutian Islands 1977",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Aleutian Islands"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398764",
+        "title": "Tuktu and His Eskimo Dogs 1969",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398759",
+        "title": "Medoonak, the Stormmaker 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_279753",
+        "title": "Rope to Our Roots 1981",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1980s"
+    },
+    {
+        "id": "edanmdm-siris_arc_385047",
+        "title": "Lament of the Reservation, part III 1970",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399071",
+        "title": "Where the River enters the Sea ca. 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399073",
+        "title": "Fox and Bear 1980",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1980s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399075",
+        "title": "Quingalik and the Sea 1976",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399069",
+        "title": "Tuktu and the Ten Thousand Fishes 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_363918",
+        "title": "Hal and Halla Linker Film and Video Collection ca. 1955-1985",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Africa"
+            },
+            "location": {
+                "type": "Other string",
+                "content": "Africa"
+            }
+        },
+        "medium": "Television programs",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399070",
+        "title": "Tuktu and the Trials of Strength 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399060",
+        "title": "Tuktu and His Nice New Clothes 1968",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399067",
+        "title": "Tuktu and the Magic Spear 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399068",
+        "title": "Tuktu and the Snow Palace 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399061",
+        "title": "Tuktu and the Big Kayak 1969",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399062",
+        "title": "Tuktu and the Big Seal 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399065",
+        "title": "Tuktu and the Indoor Games 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398761",
+        "title": "The Hopi Way 1972",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398703",
+        "title": "Our Totem is the Raven 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399085",
+        "title": "Haa Shagoon 1983",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1980s"
+    },
+    {
+        "id": "edanmdm-siris_arc_387862",
+        "title": "Woodland Indians of Early America 1958",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398695",
+        "title": "Charlie Squash Goes to Town 1969",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398691",
+        "title": "The Emerging Eskimo 1972",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399076",
+        "title": "The Hungry Walrus ca. 1970s",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_280664",
+        "title": "Central Europe, Tyrol -- Processing Flax: Spinning 1964",
+        "geoLoc": {},
+        "medium": "Photographs",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399096",
+        "title": "I Heard the Owl Call My Name 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399097",
+        "title": "Broken Arrow 1950",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Drawings",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218549",
+        "title": "Hula Pahu from the Mader Collection ca. 1935",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1930s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399090",
+        "title": "This Was the Time 1970",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399093",
+        "title": "Pictures Out of My Life 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Drawings",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399089",
+        "title": "The Longhouse People 1951",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398680",
+        "title": "Cesar's Bark Canoe 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399063",
+        "title": "Tuktu and the Caribou Hunt 1967",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399064",
+        "title": "Tuktu and the Clever Hands 1968",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399066",
+        "title": "Tuktu and the Magic Bow 1968",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398678",
+        "title": "Tahonka 1961",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1890s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398685",
+        "title": "The North American Indian Part II: How the West was Won and Honor Lost 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398692",
+        "title": "Maria of the Pueblos 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "New Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398683",
+        "title": "Indian America 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398686",
+        "title": "Two Indians: Red Reflections of LIfe 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398757",
+        "title": "Ropes to Our Roots 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398681",
+        "title": "Kainai 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398690",
+        "title": "Noah 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": " North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399082",
+        "title": "The Legend of the Magic Knives 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": " North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399092",
+        "title": "Other Side of the Ledger: An Indian View of the Hudson's Bay Company 1972",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399091",
+        "title": "Greenlanders 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Denmark"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Greenland"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399095",
+        "title": "Our Land is Our Life 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Québec (Province)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218468",
+        "title": "Zingg's Huichol Footage 1933-1934",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1930s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399081",
+        "title": "The Apache Indians ca. 1970s",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398704",
+        "title": "Minority Youth: Adam 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398714",
+        "title": "Discovering American Idnian Music 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398726",
+        "title": "Indians of Early America 1957",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398763",
+        "title": "Tuktu and His Animal Friends 1969",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Canada"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1960s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399083",
+        "title": "Ceremonial Pipes 1955",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1950s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398682",
+        "title": "The Smile of the Walrus 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398684",
+        "title": "Those Who Sing Together 1977",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398760",
+        "title": "Children of the Long Beaked Bird 1976",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "United States of America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_398689",
+        "title": "Do We Want Us To 1978",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "State",
+                "content": "Alaska"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218381",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218754",
+        "title": "Huichol Film Project 1973",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218755",
+        "title": "Huichol Film Project, Fall 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218756",
+        "title": "Huichol Film Project, Fall 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218757",
+        "title": "Huichol Film Project, Fall 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218758",
+        "title": "Huichol Film Project, Fall 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218760",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218761",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218763",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_394143",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218764",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218765",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218766",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218767",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218768",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218769",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218770",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218771",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218772",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218773",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218774",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218775",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218776",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218777",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218778",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218779",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218780",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218781",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218782",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218784",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218785",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218786",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218783",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Collection descriptions",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218787",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218788",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218789",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218790",
+        "title": "Huichol Film Project 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218791",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "El Salvador"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Central America"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218792",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218793",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218794",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218795",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218796",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218797",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218798",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218799",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218800",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218801",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218802",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218803",
+        "title": "Huichol Film Project, February-March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218804",
+        "title": "Huichol Film Project, February- March 1975 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_219264",
+        "title": "Huichol: People of the Peyote 1975",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218382",
+        "title": "New Hebrides Film Project: Tanna Island 1973 and 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218383",
+        "title": "New Hebrides Film Project: Pentecost Island 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218384",
+        "title": "New Hebrides Film Project: Banks Island 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Banks Islands"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218385",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218386",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218387",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218388",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218389",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218390",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218391",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218392",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218393",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218394",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218395",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218396",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218397",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218398",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218399",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218400",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218401",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218402",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218403",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Lendombwey (Melekula, New Hebrides)"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218404",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Malekula"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218405",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Malekula"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218406",
+        "title": "New Hebrides Film Project: Malekula 1970-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Malekula"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218407",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218408",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218409",
+        "title": "New Hebrides Film Project: Pentecost Island 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_395096",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218423",
+        "title": "New Hebrides Film Project: Banks Island 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Banks Islands"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218410",
+        "title": "New Hebrides Film Project: Pentecost Island 1971",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218411",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218412",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218413",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218414",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218415",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218416",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218417",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218418",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218419",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218420",
+        "title": "New Hebrides Film Project: Tanna Island 1973-1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Vanuatu"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218422",
+        "title": "New Hebrides Film Project: Banks Island 1871",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Banks Islands"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1870s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399108",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396065",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396066",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396067",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396068",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396186",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396187",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399107",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396188",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396189",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396190",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396425",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396426",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396427",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396428",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396431",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396450",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396451",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396452",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396453",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396454",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396455",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396456",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396562",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396563",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396564",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396565",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396566",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396567",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396568",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396569",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396570",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396649",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396650",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396651",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396652",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396653",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396654",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396655",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397046",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397047",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397048",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397049",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397050",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397051",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397052",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397053",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397055",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_218759",
+        "title": "Huichol Film Project, Summer 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "North America"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Mexico"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Mexico"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397070",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397071",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397073",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397074",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397097",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397098",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397099",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397100",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397101",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397102",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399100",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399101",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399102",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399103",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399104",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399105",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_399106",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397057",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397058",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397062",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397063",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397064",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397065",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397066",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397067",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397068",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397069",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_397056",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396062",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396063",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396064",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_395097",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_395098",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_395099",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_395100",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396059",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396060",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_396061",
+        "title": "New Hebrides Film Project: Tanna Island 1974",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Oceania"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Vanuatu"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "New Hebrides"
+            }
+        },
+        "medium": "Photographs",
+        "dates": "1970s"
+    },
+    {
+        "id": "edanmdm-siris_arc_219295",
+        "title": "With Car and Camera Around the World: Africa 1921-1929",
+        "geoLoc": {
+            "continent": {
+                "type": "Continent",
+                "content": "Africa"
+            },
+            "location": {
+                "type": "Country",
+                "content": "Egypt"
+            },
+            "detailLoc": {
+                "type": "Other string",
+                "content": "Egypt"
+            }
+        },
+        "medium": "Motion pictures (visual works)",
+        "dates": "1920s"
+    }
+]
