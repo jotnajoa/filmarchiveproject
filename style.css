@@ -238,6 +238,7 @@ body {
     gap: 0 15px;
     font-family: sofia-pro, sans-serif;
     font-weight: 400;
+    z-index: 15
 }
 
 .vertbar {
@@ -358,11 +359,11 @@ body {
     font-weight: 100;
     color: #424242;
     cursor: pointer;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(255, 255, 255, 0.01);
 }
 
 .skipbtntext {
-    background-color: rgba(255, 255, 255, 0.001);
+    background-color: rgba(255, 255, 255, 0.01);
 }
 
 .skipbtn:hover {
