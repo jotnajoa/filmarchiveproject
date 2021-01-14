@@ -182,7 +182,7 @@ function colorMap(targetArea, nums, contNumpair) {
 
 function linegraph() {
 
-    margin = { left: 50, right: 10, top: 5, bottom: 50 }
+    margin = { left: 50, right: 150, top: 5, bottom: 50 }
     scaleSection = 150
     data = [];
 
@@ -325,7 +325,7 @@ function yearIndicator(year) {
 function skiptoNext() {
     $('.msgbox')
         .append(`<div class='skipbtn'>
-        <div style='width:60px'>Skip Animation</div>
+        <div class='skipbtntext' style='width:60px'>Skip Animation</div>
         <img style='display:inline;position:relative;left:70px;top:-40px' src='./imgs/next.png'>
         </div>`)
 
@@ -340,5 +340,16 @@ function skiptoNext() {
 
     })
 
+
+
+    $('.skipbtntext').on('click', () => {
+        lastgraph.testlog()
+
+        lastgraph.loadData()
+
+        $('body').css('overflow-y', 'hidden')
+        $('.overtime').css('opacity', 0)
+
+    })
 
 }

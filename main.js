@@ -110,11 +110,11 @@ $(document).ready(function() {
     scroller.css('top', `${sectionheight*13}px`)
 
     let scalebar = $('#scalebar')
-    scalebar.css('top', `${sectionheight*5/6}px`)
-    scalebar.css('left', `0%`)
+    scalebar.css('top', `${sectionheight*0.75}px`)
+    scalebar.css('left', `5%%`)
 
     let gradscale = $('.gradscale')
-    gradscale.css('top', `${sectionheight*8/10}px`)
+    gradscale.css('top', `${sectionheight*0.75}px`)
     gradscale.css('right', `10%`)
 
 
@@ -310,7 +310,7 @@ $(document).ready(function() {
     tl.to('.overtime', {
         scrollTrigger: {
             trigger: '.scroller1',
-            start: 'bottom center'
+            start: 'top bottom'
         },
         opacity: 1
     })
@@ -318,7 +318,7 @@ $(document).ready(function() {
     tl.to('.scroller', {
         scrollTrigger: {
             trigger: '.scroller1',
-            start: 'bottom center',
+            start: 'top bottom',
             scrub: true,
             onEnter: () => {
                 d3.select('#scalebar').selectAll('line').remove()
@@ -331,7 +331,7 @@ $(document).ready(function() {
                     .call(() => {
 
                         d3.select('#scalebar').attr('width', viewWidth)
-                        d3.select('#scalebar').style('left', '0%')
+                        d3.select('#scalebar').style('left', '5%')
                     })
 
                 timeline.timeanimation()
