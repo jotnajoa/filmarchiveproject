@@ -107,7 +107,7 @@ $(document).ready(function() {
         'left': '-10%'
     })
     let scroller = $('.scroller1')
-    scroller.css('top', `${sectionheight*12}px`)
+    scroller.css('top', `${sectionheight*13}px`)
 
     let scalebar = $('#scalebar')
     scalebar.css('top', `${sectionheight*0.75}px`)
