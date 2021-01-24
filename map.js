@@ -8,7 +8,7 @@ let count = 0;
 
 export const showmap = () => {
 
-
+    d3.select("#map").style('opacity', 1)
 
     if (ranonce && !mymap) {
         mymap = L.map('map', { zoomControl: false, scrollWheelZoom: false }).setView([30.2744, 5.7751], 1.5);
@@ -90,7 +90,10 @@ export const showmap = () => {
     mymap.on('zoomend', update)
 
 }
+export const hidemap = () => {
+    d3.select("#map").style('opacity', 0)
 
+}
 export const glow = () => {
 
     let svg = d3.select('#map').select('svg')
@@ -214,8 +217,11 @@ export const colormap = () => {
 }
 
 function showscale() {
-    let scaleSVG = d3.select('#scalebar').attr('width', viewWidth * 2 / 3).attr('height', 100)
 
+    let scaleSVG = d3.select('#scalebar').attr('width', viewWidth * 2 / 3).attr('height', 100)
+    d3.select('#scalebar').select('rect').style('opacity', 1)
+    d3.select('#scalebar').selectAll('text').style('opacity', 1)
+    d3.select('#scalebar').selectAll('line').style('opacity', 1)
     let scaleMargin = {
         top: 60,
         bottom: 10,
@@ -295,6 +301,24 @@ function showscale() {
 
 }
 
+export const hidecolormap = () => {
+
+    var path = d3.selectAll('path').style('opacity', 0)
+    hideScale()
+    hideFocus()
+
+    function hideScale() {
+
+        d3.select('#scalebar').selectAll('rect').style('opacity', 0)
+        d3.select('#scalebar').selectAll('text').style('opacity', 0)
+        d3.select('#scalebar').selectAll('line').style('opacity', 0)
+    }
+
+    function hideFocus() {
+        d3.select('.focusCircle').style('opacity', 0)
+    }
+}
+
 export const mostCircle = () => {
 
 
@@ -330,7 +354,7 @@ export const leastCircle = () => {
     let centralCoord = { lat: 19.43268, lon: -99.13421 }
 
 
-    svg.select('.focusCircle').remove()
+    svg.selectAll('.focusCircle').remove()
 
     let highlightcircle = svg.append('circle')
         .attr('class', 'focusCircle')

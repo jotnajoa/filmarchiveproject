@@ -149,7 +149,6 @@ $(document).ready(function() {
             start: `top bottom`,
             end: `+=${sectionheight*0.5} +=${sectionheight*3/4}`,
             pin: '.backgroundmap',
-
             onLeave: () => {
 
                 $('.frontgroundimg').css({
@@ -163,11 +162,24 @@ $(document).ready(function() {
                     'top': '130px',
                     'width': '1050px'
                 })
+                $('#map').css('visibility', 'visible')
                 loadConts()
                 $('.backgroundmap').animate({
                     opacity: 0
                 })
+            },
+            // onEnter: () => animation.play(),
+            // onLeave: () => animation.pause(),
+            onEnterBack: () => {
+                $('.frontgroundimg').css({
+                    'position': 'absolute',
+                    'top': `${sectionheight*2}px`,
+                    'width': '1050px'
+                })
+                $('#map').css('visibility', 'hidden')
             }
+
+            // onLeaveBack: () => animation.pause()
         }
     })
 
@@ -194,8 +206,12 @@ $(document).ready(function() {
             scrub: true,
             onLeave: () => {
                 mapmodule.showmap()
-                $('.frontgroundimg').remove()
+                $('.frontgroundimg').css('opacity', 0)
                     // loadConts()
+            },
+            onEnterBack: () => {
+                $('.frontgroundimg').css('opacity', 1);
+                mapmodule.hidemap()
             }
         },
         opacity: 0.1
@@ -224,6 +240,10 @@ $(document).ready(function() {
             onLeave: () => {
                 mapmodule.colormap()
                 $('.box2title').css('opacity', 0)
+            },
+            onEnterBack: () => {
+                $('.frontgroundimg').css('opacity', 1);
+                mapmodule.hidecolormap()
             }
         },
         opacity: 0.4
@@ -338,6 +358,10 @@ $(document).ready(function() {
             },
             onLeave: () => {
                 $('.overview').css('opacity', 0)
+            },
+            onLeaveBack: () => {
+                console.log('leaving back');
+                timeline.hideTimeAnimaiton();
             }
         },
         opacity: 1

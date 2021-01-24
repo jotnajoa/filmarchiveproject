@@ -20,6 +20,10 @@ let colorscale = d3.scaleOrdinal().domain(types).range(colors)
 
 
 export async function loadData() {
+    $('.lastgraph').append(`<div class='backbtnlast'>
+        <img style='display:inline;position:relative;left:0px;top:0px;transform:rotate(180deg);float:left' src='./imgs/next.png'>
+        <div style='display:inline;margin-left:10px' class='skipbtntext' style='width:60px; text-align:end;'><a href='./index.html' style='text-decoration: none;'>Back to Beginning</a></div>
+        </div>`)
 
     let types = ["YouTube Videos", "Motion pictures", "Projected media", "Video recordings",
         "Archival materials", "Sound recordings",

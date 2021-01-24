@@ -373,6 +373,35 @@ body {
     text-decoration: underline;
 }
 
+.backbtn {
+    position: absolute;
+    right: 10%;
+    top: 40%;
+    width: 100px;
+    font-size: 11px;
+    display: inline;
+    opacity: 0;
+    font-weight: 100;
+    color: #424242;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.01);
+}
+
+.backbtnlast {
+    font-family: sofia-pro, sans-serif;
+    position: absolute;
+    right: 10%;
+    top: 5%;
+    width: 100px;
+    font-size: 11px;
+    display: inline;
+    opacity: 1;
+    font-weight: 100;
+    color: #424242;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.01);
+}
+
 .lastgraph {
     visibility: hidden;
     position: fixed;

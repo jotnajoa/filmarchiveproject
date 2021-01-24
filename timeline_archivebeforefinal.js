@@ -19,6 +19,7 @@ export const timeanimation = () => {
     // svg width를 100%로 바꿔주고
     // left 0%로 바꿔준다
     let decades = d3.range(1870, 2020, 10)
+
     decades.forEach((d, i) => {
         timeflow(d, i)
     })
@@ -31,13 +32,6 @@ export const timeanimation = () => {
         .duration(500)
         .style('opacity', 1)
 
-
-
-    d3.select('#scalebar').style('opacity', 1)
-    d3.select('.gradscale').style('opacity', 1)
-
-
-
     gsap.to('.msgbox', 1, { css: { left: '5%' } })
 
 
@@ -49,7 +43,6 @@ export const timeanimation = () => {
             setTimeout(() => {
                 skiptoNext()
                 d3.select('.skipbtn').transition().duration(500).style('opacity', 1)
-                d3.select('.backbtn').transition().duration(500).style('opacity', 1)
             }, 1000)
         }
 
@@ -143,6 +136,11 @@ function contofYear(array, decades) {
 
     msgbox(decades, targetContinent, nums, mainsource)
 
+
+
+
+
+
     if (nums > 0) {
         targetContinent.forEach((t) => {
             colorMap(t, nums, contNumpair)
@@ -164,7 +162,6 @@ function colorMap(targetArea, nums, contNumpair) {
     // totalnumber 중에서 각 대륙의 비율을 구하고 그것은 달라사인안에 넣으면 될듯
 
     d3.selectAll('.mapoutline').each(function(d) {
-
 
         if (d3.select(this).data()[0].properties.continent == targetArea || d3.select(this).data()[0].properties.subregion == targetArea) {
             let ratio;
@@ -301,7 +298,7 @@ function msgbox(decades, targetContinent = '', nums = 0, mainsource = '') {
 
 function yearIndicator(year) {
     let svg = d3.select('#scalebar')
-        // svg.style('opacity', 1)
+    svg.style('opacity', 1)
     year
     let xscale = d3.scaleLinear().domain([1870, 2010]).range([margin.left, viewWidth - scaleSection - margin.right])
     let yscale = d3.scaleLinear().domain([0, 1271]).range([100 - margin.bottom, 0])
@@ -333,12 +330,6 @@ function skiptoNext() {
         <img style='display:inline;position:relative;left:70px;top:-40px' src='./imgs/next.png'>
         </div>`)
 
-    $('.msgbox').append(`<div class='backbtn'>
-        <img style='display:inline;position:relative;left:0px;top:0px;transform:rotate(180deg);float:left' src='./imgs/next.png'>
-        <div style='display:inline;margin-left:10px' class='skipbtntext' style='width:60px; text-align:end;'><a href='./index.html' style='text-decoration: none;'>Back to Beginning</a></div>
-        </div>`)
-
-    $('body').css('overflow-y', 'hidden')
 
     $('.skipbtn').on('click', () => {
         lastgraph.testlog()
@@ -361,5 +352,4 @@ export const hideTimeAnimaiton = () => {
     d3.select('.msgbox').style('opacity', 0)
     d3.select('#scalebar').style('opacity', 0)
     d3.select('.gradscale').style('opacity', 0)
-
 }
