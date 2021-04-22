@@ -157,7 +157,7 @@ function addOn(list, yearData) {
 }
 
 function scaleGenerator(type, input, max) {
-    let multiplyer = 10
+    let multiplyer = 2
     let types = ["YouTube Videos", "Motion pictures", "Projected media", "Video recordings",
         "Archival materials", "Sound recordings",
         "Television programs", "Photographs", "Videotapes"
@@ -176,12 +176,12 @@ function scaleGenerator(type, input, max) {
     if (input > max / 15 && input < max) {
         upvalue = 50 - (input / max) * 30
         downvalue = 50 + (input / max) * 30
-        opacity = input / max
+        opacity = 1
     }
     if (input < max / 15) {
         upvalue = 50 - (input * multiplyer / max) * 30
         downvalue = 50 + (input * multiplyer / max) * 30
-        opacity = 5 * input * multiplyer / max
+        opacity = 1
     }
     //multiplying factor is for visual purpose actual data shouldn't be multiplied by ten
     valueset.push({
